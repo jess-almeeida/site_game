@@ -105,7 +105,7 @@ section p {
 
 /* ESTILO 9 */
 #contact .container {
-    display: block;
+    display: flex;
 }
 
 .contact-methods {
